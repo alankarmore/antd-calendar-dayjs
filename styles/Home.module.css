@@ -1,5 +1,6 @@
 .container {
-  padding: 0 2rem;
+  /* padding: 0 2rem; */
+  padding: 24px
 }
 
 .main {
@@ -113,4 +114,11 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+
+.siteCalendarDemoCard {
+  width: 500px;
+  border: 1px solid #f0f0f0;
+  border-radius: 2px;
 }
